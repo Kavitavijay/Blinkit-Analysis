@@ -62,6 +62,14 @@ The Power BI dashboard includes the following visuals:
 - **Excel / CSV** – Dataset handling  
 
 ---
+## 📊 Key Insights
+
+- Certain item types and fat content categories significantly outperform others
+- Outlet size and location have a strong impact on sales
+- Customer ratings correlate with higher average sales
+- Older outlets show consistent revenue trends
+  
+ ---
 
 ## 📂 Project Structure
 ```text
@@ -71,12 +79,3 @@ The Power BI dashboard includes the following visuals:
 ├── README.md
 
 
----
-
-
-## 📊 Key Insights
-
-- Certain item types and fat content categories significantly outperform others
-- Outlet size and location have a strong impact on sales
-- Customer ratings correlate with higher average sales
-- Older outlets show consistent revenue trends
