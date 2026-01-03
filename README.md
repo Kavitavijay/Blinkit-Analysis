@@ -75,6 +75,7 @@ The Power BI dashboard includes the following visuals:
 
 ## 📂 Project Structure
 ```text
+├── blinkit_data.csv # Dataset    
 ├── Blinkit Analysis.ipynb        # Data analysis & preprocessing
 ├── Business Requirement Document.pdf
 ├── Power BI Dashboard.pbix      # Interactive dashboard file
