@@ -62,13 +62,15 @@ The Power BI dashboard includes the following visuals:
 - **Excel / CSV** – Dataset handling  
 
 ---
-## 📊 Key Insights
 
-- Certain item types and fat content categories significantly outperform others
-- Outlet size and location have a strong impact on sales
-- Customer ratings correlate with higher average sales
-- Older outlets show consistent revenue trends
-  
+## 📊 Key Insights
+- Majority of revenue is generated from a few high-performing item categories
+- Low-fat and regular products contribute significantly to total sales
+- Higher customer ratings are directly linked to better average sales
+- Medium and large outlets outperform smaller outlets in revenue generation
+- Older outlets show stable and consistent sales trends
+- Sales distribution varies across locations, highlighting regional demand patterns
+- Inventory optimization opportunities identified using demand-based analysis
  ---
 
 ## 📂 Project Structure
